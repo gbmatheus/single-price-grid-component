@@ -1,0 +1,10 @@
+.single-price__price {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--white);
+}
+
+.single-price__price > span {
+  color: var(--white-opacity);
+  font-weight: 400;
+}

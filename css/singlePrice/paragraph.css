@@ -1,0 +1,8 @@
+.single-price__paragraph {
+  line-height: 1.6;
+  font-size: 0.875rem;
+}
+
+.single-price__paragraph-white {
+  color: var(--white);
+}

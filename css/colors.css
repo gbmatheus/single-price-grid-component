@@ -1,0 +1,9 @@
+:root {
+  --white: #f9f9f9;
+  --white-opacity: #f9f9f980;
+  --cyan: #2ab2af;
+  --light-cyan: #4abebd;
+  --bright-yellow: hsl(71, 73%, 54%);
+  --light-gray: #e5eff5;
+  --grayish-blue: hsl(218, 22%, 67%);
+}
